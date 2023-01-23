@@ -1,6 +1,6 @@
 # Berreskurapen Proiektua
 
-## Liburuak
+## Programazio liburuak
 
 Nire proiektuaren gai nagusia liburuak izango dira. Aukeratu dudan Json fitxategia progrmazio-liburu buruzko datuak gordetzen ditu.
 
@@ -15,7 +15,7 @@ Progrmazio-liburuen buruzko **datu** hauek gordetzen ditu:
 - Autoreak **(Arraya)**
 - Kategoriak **(Arraya)**
 
-### Programazio liburuak
+### Json fitxategia
 
 Url: https://github.com/bvaughn/infinite-list-reflow-examples/blob/master/books.json
 
