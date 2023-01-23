@@ -37,7 +37,7 @@ Url: https://github.com/bvaughn/infinite-list-reflow-examples/blob/master/books.
   - **Azalpena:** Liburuaren titulua eskatuko da.Liburua publikoa bada eta hoinarte, "ezetz" jarrita badago aldatuko da. 
 - **liburuak/liburuaEzabatu:**
   - **Mota:** DELETE
-  - **Azalpena:** Tituluaren bitartez edozein liburu ezatu ahalko da datu-basetik. 
+  - **Azalpena:** Datu-basetik tituluaren bitartez edozein liburu ezabatu ahalko da. 
 - **liburuak/liburuLodienak:**
   - **Mota:** GET
   - **Azalpena:** Liburu handienetik txikienerarte lista ikusiko da (Orrialde kopurua kontuan izanda). 
