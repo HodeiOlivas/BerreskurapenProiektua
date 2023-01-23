@@ -4,7 +4,7 @@
 
 Nire proiektuaren gai nagusia liburuak izango dira. Aukeratu dudan Json fitxategia programazio-liburu buruzko datuak gordetzen ditu.
 
-Progrmazio-liburuen buruzko **datu** hauek gordetzen ditu:
+Programazio-liburuen buruzko **datu** hauek gordetzen ditu:
 - Liburuaren titulua **(String)**
 - Isbn-a **(int)**
 - Orrialde kopurua **(int)**
