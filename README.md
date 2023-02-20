@@ -16,7 +16,7 @@ Programazio-liburuen buruzko **datu** hauek gordetzen ditu:
 - Kategoriak **(Arraya)**
 - Puntuazioa **(Arraya Objetuena)**
 
-##BIDEOA YT: 
+## BIDEOA YT: https://youtu.be/sFAjC4khYbc
 
 ### Json fitxategia
 
