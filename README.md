@@ -1,5 +1,5 @@
 # Berreskurapen Proiektua
-
+## BIDEOA YT: https://youtu.be/sFAjC4khYbc
 ## Programazio liburuak
 
 Nire proiektuaren gai nagusia liburuak izango dira. Aukeratu dudan Json fitxategia programazio-liburu buruzko datuak gordetzen ditu.
@@ -15,8 +15,6 @@ Programazio-liburuen buruzko **datu** hauek gordetzen ditu:
 - Autoreak **(Arraya)**
 - Kategoriak **(Arraya)**
 - Puntuazioa **(Arraya Objetuena)**
-
-## BIDEOA YT: https://youtu.be/sFAjC4khYbc
 
 ### Json fitxategia
 
